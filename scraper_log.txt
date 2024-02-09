@@ -1,0 +1,70 @@
+2024-02-04 15:51:08,540 - INFO - Review inserted: 2024-02-03, ally_bank., 1, When you are new or asking for loan, the call waiting queue is less than two minutes gives you confidence with your decision on Ally Bank. Warning, there is no service right after you have your money in that bank account. I would recommend forgetting that money and think of some other bank to use it for direct deposit. My first salary is literally gone.
+2024-02-04 16:33:37,772 - INFO - Review inserted: 2024-02-03, ally_bank., 1, When you are new or asking for loan, the call waiting queue is less than two minutes gives you confidence with your decision on Ally Bank. Warning, there is no service right after you have your money in that bank account. I would recommend forgetting that money and think of some other bank to use it for direct deposit. My first salary is literally gone.
+2024-02-05 20:54:09,273 - INFO - Review inserted: 2024-02-04, ally_bank., 1, Since my review keeps getting removed for whatever reason, I’ll keep it PG’ish. I went to make a significantly higher than minimum required amount for my credit card ($450) via Ally Bank application. After initially submitting the payment, the system glitches, caused me to refresh the page, in which no payment transaction was reflecting. I know technology is not perfect, so I made the payment again, for the same amount ($450). My second attempt appeared to show only one payment was made. I close
+2024-02-05 21:52:33,855 - WARNING -  * Debugger is active!
+2024-02-05 21:52:33,857 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 21:53:44,609 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2024-02-05 21:53:44,609 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-05 21:53:44,617 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 21:53:50,133 - WARNING -  * Debugger is active!
+2024-02-05 21:53:50,137 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 21:54:28,085 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Projects\\Customer_Pain_Point_Analysis\\app.py', reloading
+2024-02-05 21:54:28,085 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Projects\\Customer_Pain_Point_Analysis\\app.py', reloading
+2024-02-05 21:54:28,085 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\Projects\\Customer_Pain_Point_Analysis\\app.py', reloading
+2024-02-05 21:54:28,987 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 21:54:39,975 - WARNING -  * Debugger is active!
+2024-02-05 21:54:39,977 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 21:58:49,287 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\signals.py', reloading
+2024-02-05 21:58:49,287 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\config.py', reloading
+2024-02-05 21:58:49,297 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\blinker\\__init__.py', reloading
+2024-02-05 21:58:49,300 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\sessions.py', reloading
+2024-02-05 21:58:49,354 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\routing\\__init__.py', reloading
+2024-02-05 21:58:49,375 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2024-02-05 21:58:49,447 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\helpers.py', reloading
+2024-02-05 21:58:49,464 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+2024-02-05 21:58:49,517 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\jinja2\\defaults.py', reloading
+2024-02-05 21:58:49,573 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2024-02-05 21:58:49,586 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\click\\__init__.py', reloading
+2024-02-05 21:58:49,598 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\click\\termui.py', reloading
+2024-02-05 21:58:49,610 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\cli.py', reloading
+2024-02-05 21:58:49,648 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\testing.py', reloading
+2024-02-05 21:58:49,668 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\click\\testing.py', reloading
+2024-02-05 21:58:49,682 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\blueprints.py', reloading
+2024-02-05 21:58:49,836 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-02-05 21:58:49,864 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2024-02-05 21:58:50,510 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 22:01:20,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2024-02-05 22:01:20,269 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-05 22:01:20,276 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 22:01:41,033 - WARNING -  * Debugger is active!
+2024-02-05 22:01:41,035 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 22:01:41,060 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\flask\\app.py', reloading
+2024-02-05 22:01:41,064 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\pandas\\core\\series.py', reloading
+2024-02-05 22:01:41,066 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\pandas\\core\\apply.py', reloading
+2024-02-05 22:01:41,069 - INFO -  * Detected change in 'C:\\Users\\Admin\\anaconda3\\envs\\tensorflow\\Lib\\site-packages\\pandas\\core\\generic.py', reloading
+2024-02-05 22:01:41,076 - INFO - 127.0.0.1 - - [05/Feb/2024 22:01:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-02-05 22:01:41,347 - INFO - 127.0.0.1 - - [05/Feb/2024 22:01:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-02-05 22:01:41,347 - INFO - 127.0.0.1 - - [05/Feb/2024 22:01:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-02-05 22:01:41,367 - INFO - 127.0.0.1 - - [05/Feb/2024 22:01:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-02-05 22:01:41,414 - INFO - 127.0.0.1 - - [05/Feb/2024 22:01:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-02-05 22:01:42,546 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 22:02:00,485 - WARNING -  * Debugger is active!
+2024-02-05 22:02:00,488 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 22:03:24,347 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+2024-02-05 22:03:24,347 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-05 22:03:24,353 - INFO -  * Restarting with watchdog (windowsapi)
+2024-02-05 22:03:44,289 - WARNING -  * Debugger is active!
+2024-02-05 22:03:44,297 - INFO -  * Debugger PIN: 132-801-536
+2024-02-05 22:03:53,353 - INFO - 127.0.0.1 - - [05/Feb/2024 22:03:53] "GET / HTTP/1.1" 200 -
+2024-02-05 22:03:53,400 - INFO - 127.0.0.1 - - [05/Feb/2024 22:03:53] "GET / HTTP/1.1" 200 -
+2024-02-05 22:04:04,178 - INFO - 127.0.0.1 - - [05/Feb/2024 22:04:04] "GET / HTTP/1.1" 200 -
+2024-02-05 22:04:12,327 - INFO - 127.0.0.1 - - [05/Feb/2024 22:04:12] "GET / HTTP/1.1" 200 -

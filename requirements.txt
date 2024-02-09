@@ -1,0 +1,11 @@
+requests
+beautifulsoup4~=4.9.3
+pandas~=2.0.3
+pyodbc~=4.0.39
+python-dotenv~=1.0.0
+mysql-connector-python~=8.2.0
+numpy~=1.24.3
+nltk~=3.8.1
+flask~=2.3.3
+pdoc~=14.1.0
+pymysql~=1.1.0
