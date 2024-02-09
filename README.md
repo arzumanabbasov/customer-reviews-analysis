@@ -24,12 +24,14 @@ This project scrapes reviews from consumeraffairs.com, performs sentiment analys
 │   ├── utils
 │   │   ├── data
 │   │   │   └── _init__.py
-|   |   |   └── runscraper.py
-|   |   |   └── scraper.py
+│   │   │   └──runscraper.py
+│   │   │   └──scraper.py
 │   │   ├── features
 │   │   │   ├── _init__.py
 │   │   │   ├── feature_engineering.py
-|   |   ├── models
+│   │   ├── models
+│   │   │   └── _init__.py
+│   │   │   └──model.py
 │   ├── app.py
 ```
 
